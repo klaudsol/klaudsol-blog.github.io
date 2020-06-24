@@ -78,4 +78,22 @@ We can use Apollo Client's [`useLazyQuery` react hook](https://www.apollographql
 ### 3.3) Invoke your function and capture results
 {% gist 5854bcc7ec0772b6e7e319fcf61c39da %}
 
+Once we have the function and the data variables setup, the final thing we need to do is connect our function to an event that interests us. In our case, let's use a `Button` click as a trigger to start the query.
+
+We dump data that has been retrieved into a [Polaris Data Table Component](https://polaris.shopify.com/components/lists-and-tables/data-table){:target="_blank"}.
+
+* Lines `18 - 20` and `24` invokes `fetchStoreDetails()` whenever our `Button` is clicked.
+* Before clicking, `data` will be `nil`, and thus the data table will *not* be displayed due to the condition in line `26`.
+* Clicking the `Button` will populate `data` from the Shopify GraphQL server. Again, note that the object keys correspond to the GraphQL query that we sent.
+* Once `data` is populated, the data table will render accordingly. 
+
+If done correctly, your data table should see something similar to this:
+
+![Shopify Data Table](/assets/images/shopify20-48.png)
+
+On my next post, let's discuss how to add, update, and delete using GraphQL.
+
+
+
+
 
