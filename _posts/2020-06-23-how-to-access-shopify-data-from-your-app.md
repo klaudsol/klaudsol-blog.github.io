@@ -72,7 +72,7 @@ We can use Apollo Client's [`useLazyQuery` react hook](https://www.apollographql
 * `fetchStoreDetails` will contain the function to be executed on demand (in our case, on a press of a button).
 * `data` will contain the GraphQL response, if successful.
 * `error` will have value only if our GraphQL request is unsuccessful.
-* `loading` is a bolean that indicates whether our GraphQL server is done with the query, or is it still ongoing. Works wonderfully with the [Polaris Spinner Component](https://polaris.shopify.com/components/feedback-indicators/spinner){:target="_blank"} to let the user know that something is still happening in the background, (and it is worth the wait!)
+* `loading` is a bolean that indicates whether our GraphQL server is done with the query, or whether it is still ongoing. Works wonderfully with the [Polaris Spinner Component](https://polaris.shopify.com/components/feedback-indicators/spinner){:target="_blank"} to let the user know that something is still happening in the background, (and is worth the wait!)
 
 
 ### 3.3) Invoke your function and capture results
