@@ -56,12 +56,26 @@ To demonstrate, if we put the query result in `data`, the **subscription plan na
 
 Let's now return to the reason we need the `gql` template literal tag. We need the `gql` tag to convert string into a syntax tree object for the GraphQL client. 
 
-For us humans, representing the query as GraphQL strings is very visual and convenient. In one glance, we can easily "get" the structure of the request and the expected query response. However, for the GraphQL client, strings are "[are inconvenient to manipulate, if you are trying to do things like add extra fields, merge multiple queries together, or other interesting stuff.](https://www.npmjs.com/package/graphql-tag){:target="_blank"}". 
+For us humans, representing the query as GraphQL strings is very visual and convenient. In one glance, we can easily "get" the structure of the request and the expected query response. However, for the GraphQL client, strings are "[are inconvenient to manipulate, if you are trying to do things like add extra fields, merge multiple queries together, or other interesting stuff](https://www.npmjs.com/package/graphql-tag){:target="_blank"}". 
+
+In short, just always use `gql` in your queries ;)
 
 With that, our GraphQL query is ready to be used!
 
 ### 3.2) Create a function that will execute your query
 {% gist c8a546b57e2a29d7aeeace11d31f62e1 %}
+
+Once we have our GraphQL query all prepped up, we need to create a function to signal execution of our query. Also, we need  to store the resulting data, and other metadata such as errors and query status. 
+
+We can use Apollo Client's [`useLazyQuery` react hook](https://www.apollographql.com/docs/react/api/react-hooks/#uselazyquery){:target="_blank"} to do this.
+
+* `fetchStoreDetails` will contain the function to be executed on demand (in our case, on a press of a button).
+* `data` will contain the GraphQL response, if successful.
+* `error` will have value only if our GraphQL request is unsuccessful.
+* `loading` is a bolean that indicates whether our GraphQL server is done with the query, or is it still ongoing. Works wonderfully with the [Polaris Spinner Component](https://polaris.shopify.com/components/feedback-indicators/spinner){:target="_blank"} to let the user know that something is still happening in the background, (and it is worth the wait!)
+
+
 ### 3.3) Invoke your function and capture results
+{% gist 5854bcc7ec0772b6e7e319fcf61c39da %}
 
 
