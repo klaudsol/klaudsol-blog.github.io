@@ -61,6 +61,7 @@ For us humans, representing the query as GraphQL strings is very visual and conv
 With that, our GraphQL query is ready to be used!
 
 ### 3.2) Create a function that will execute your query
+{% gist c8a546b57e2a29d7aeeace11d31f62e1 %}
 ### 3.3) Invoke your function and capture results
 
 

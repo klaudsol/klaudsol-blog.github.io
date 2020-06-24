@@ -3,6 +3,12 @@
     <div class="categories">{{ include.post.categories | join: ", "  | upcase }}</div>
   {% endif %}
   <h1><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h1>
-  {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
-  <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}</time>
+
+  <img src="https://www.gravatar.com/avatar/edbe99708b473ad925ac3566b72bfc8d" style="float: left; width: 50px; margin: 0; padding: 0; border-radius: 50%" />
+  <div style="float: left; margin-left: 10px;">
+    <div>Ardee Aram</div>
+    {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+    <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}</time>
+  </div>
+  <div style="clear: both;"></div>
 </header>
