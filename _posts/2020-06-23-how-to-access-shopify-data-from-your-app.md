@@ -87,7 +87,7 @@ We dump data that has been retrieved into a [Polaris Data Table Component](https
 * Clicking the `Button` will populate `data` from the Shopify GraphQL server. Again, note that the object keys correspond to the GraphQL query that we sent.
 * Once `data` is populated, the data table will render accordingly. 
 
-If done correctly, your data table should see something similar to this:
+If done correctly, your data table should look something similar to this:
 
 ![Shopify Data Table](/assets/images/shopify20-48.png)
 
