@@ -11,7 +11,7 @@ Hello developers!
 
 To make our **Shopify app** valuable to merchants, we need to **retrieve** and **manipulate data** from our Shopify store. 
 
-This will be the most exciting part for those into **number crunching**, **data analysis**, **data aggregation**, and **cross-systems** integration.
+This will be the most exciting part for those into **number crunching**, **data analysis**, **data aggregation**, and **cross-systems integration**.
 
 Available data for us includes Shopify [**products**](https://shopify.dev/docs/admin-api/graphql/reference/object/product?api[version]=2020-04){:target="_blank"}, [**orders**](https://shopify.dev/docs/admin-api/graphql/reference/object/order?api[version]=2020-04){:target="_blank"}, and [**customers**](https://shopify.dev/docs/admin-api/graphql/reference/object/customer?api[version]=2020-04){:target="_blank"}, among other interesting data sets. 
 
