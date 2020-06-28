@@ -4,6 +4,8 @@ title:  "How to Easily Create a Product via GraphQL"
 ategories: shopify graphql
 ---
 
+![GraphQL](https://mcusercontent.com/2258b1142d581e51c131c3e0e/images/03c35c6b-ec03-4df7-88b5-64b0acc4de95.png "How to Easily Create a Product via GraphQL")
+
 > Our objective in this exercise is to be able to **create** a **product** in Shopify using **GraphQL**.
 
 In my previous post, I showed you [how to retrieve Shopify data via GraphQL](/how-to-access-shopify-data-from-your-app/){:target="_blank"}. This time, I'll show you how to **add** data (more specifically, a product) via GraphQL.
