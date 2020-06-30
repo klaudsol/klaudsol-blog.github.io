@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Easily Create a Product via GraphQL"
-ategories: shopify graphql
+categories: shopify graphql
 ---
 
 ![GraphQL](https://mcusercontent.com/2258b1142d581e51c131c3e0e/images/03c35c6b-ec03-4df7-88b5-64b0acc4de95.png "How to Easily Create a Product via GraphQL")
