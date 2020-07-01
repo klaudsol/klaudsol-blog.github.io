@@ -6,7 +6,7 @@ categories: shopify graphql
 
 ![How to Sell Apps via the Shopify App Store](/assets/images/how-to-sell-apps-via-the-shopify-app-store.png)
 
-> This is an introduction to the 3-part series on How to Sell Apps via the Shopify App Store. 
+> This is an introduction to the 3-part series on How to Sell Apps via the Shopify App Store. It's time to cash in. 
 
 Who doesn't want to earn extra income? I know I do!
 
