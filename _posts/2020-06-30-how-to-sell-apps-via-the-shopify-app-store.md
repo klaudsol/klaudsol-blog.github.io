@@ -5,6 +5,7 @@ categories: shopify graphql
 ---
 
 ![How to Sell Apps via the Shopify App Store](/assets/images/how-to-sell-apps-via-the-shopify-app-store.png)
+*<span>Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/cash?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
 
 > This is an introduction to the 3-part series on How to Sell Apps via the Shopify App Store. It's time to cash in. 
 
@@ -38,6 +39,10 @@ Let's begin.
 
 ## 0.) First and foremost, finish your app
 
+![](/assets/images/how-to-sell-apps-via-the-shopify-app-store-1.png)
+*Work work work! <span>Photo by <a href="https://unsplash.com/@mimithian?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mimi Thian</a> on <a href="https://unsplash.com/s/photos/developer-asian-working?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
+
+
 This might come as super obvious, but it really needs stating. You can't sell an app if you are not finished. 
 
 For those who has not even started yet, a good starting point is our [free guide to creating a new Shopify app](https://landing.klaudsol.com/shopify-app-in-20-minutes){:target="blank"}. 
@@ -62,6 +67,9 @@ Always go back to answering WHY, and your journey will be easier.
 
 ## 1.) Ensure that your app has code for billing
 
+![](/assets/images/how-to-sell-apps-via-the-shopify-app-store-2.png)
+*Don't forge the billing code! <span>Photo by <a href="https://unsplash.com/@cgower?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christopher Gower</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
+
 This will seem as a surprise especially for beginners. If you do not involve code for billing, your app will be free. 
 
 You do not want your pain and struggle to be free of charge.
@@ -76,6 +84,9 @@ You can code your app to charge [recurringly as a subscription](https://shopify.
 We shall discuss this further, inclusive of sample code, on a future post.
 
 ## 2.) Host your app
+
+![](/assets/images/how-to-sell-apps-via-the-shopify-app-store-3.png)
+*This probably is how AWS servers look like, but I'm not really sure. <span>Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/s/photos/servers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
 
 You need to choose a *reliable* host for your app. You need to consider that your app may, one day, be a huge success, and your app will be used by thousands, ten thousands, and probably millions of Shopify merchants. 
 
@@ -92,13 +103,13 @@ In future posts I shall discuss how to host your Shopify app in an AWS EC2 insta
 
 ## 3.) Submit your app for review
 
+![Shopify App Listing Review](/assets/images/shopify-app-listing-review.png)
+
 Once you got the billing code and hosting nailed, you shall then submit your app for review, which in itself is a whole new adventure.
 
 In fairness to Shopify, they really wanted each app to be of tiptop shape and quality so that merchants will get the most out of the Shopify experience. 
 
 This part shall be tedious and demanding (especially if you are itching to generate income), so better prepare your sword and shields, knights. 
-
-![Shopify App Listing Review](/assets/images/shopify-app-listing-review.png)
 
 In a (probably lengthy) future post, we shall go step-by-step on what it takes to get your Shopify app submitted and approved.
 
