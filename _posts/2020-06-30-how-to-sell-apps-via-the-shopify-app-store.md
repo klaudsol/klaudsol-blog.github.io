@@ -22,7 +22,7 @@ You want to throw your noisy underpowered laptop to the floor many times, before
 
 **It's time to cash in.**
 
-Unfortunately, it is not that straightfoward. Finishing your app in your local development is just the beginning.
+Unfortunately, it is not that straightforward. Finishing your app in your local development is just the beginning.
 
 Selling apps over the Shopify app store can involve multiple requirements. It can be really tricky especially to beginners. 
 
