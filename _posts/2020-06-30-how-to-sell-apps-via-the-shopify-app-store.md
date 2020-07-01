@@ -18,7 +18,7 @@ You struggled with your internet connection from hell.
 
 You want to throw your noisy underpowered laptop to the floor many times, before remembering that's all you got and decided you'll just smash it to bits later when you are rich.
 
-**And now your done**. Sweet sweet victory.
+**And now you're done**. Sweet sweet victory.
 
 **It's time to cash in.**
 
