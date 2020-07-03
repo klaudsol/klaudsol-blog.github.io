@@ -19,3 +19,5 @@ layout: default
     <div class="next">{% if page.next.url %}<span>Next Post</span><a href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>{% endif %}</div>
   </footer>
 {% endif %}
+
+<div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="20" data-width="100%"></div>

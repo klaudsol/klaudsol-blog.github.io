@@ -23,6 +23,9 @@
 {% if site.comments.disqus_shortname and page.layout == "post" %}<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %}
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0&appId=758280608034823&autoLogAppEvents=1" nonce="NU14rGXA"></script>
+
 <header class="icons">
   {% unless site.show_title != true and site.navigation and site.external %}
     <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
