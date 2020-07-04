@@ -29,7 +29,7 @@ Selling apps over the Shopify app store can involve multiple requirements. It ca
 
 However, once published and selling (Note: the "selling" bit is important), you will be rewarded with **monthly recurring revenue**. 
 
-You will open up a can of beer, place your feet on yoor table, and quietly enjoy your triumph. I tell you it will be all worth it. 
+You will open up a can of beer, place your feet on your table, and quietly enjoy your triumph. I tell you it will be all worth it. 
 
 Fear not, I shall guide you on how to sell your app via the Shopify App store with this 3-part series.
 
