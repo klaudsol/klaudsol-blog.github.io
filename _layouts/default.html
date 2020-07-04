@@ -28,7 +28,7 @@
 
 <header class="icons">
   {% unless site.show_title != true and site.navigation and site.external %}
-    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+    <a href="{{ "/" | relative_url }}" class="title"><img src="/assets/images/klaudsol-apps.png" class="logo" title="{{ site.title }}" alt="{{ site.title }}" /></a>
   {% endunless %}
   {% if site.navigation or site.external %}
     {% include menu.html menu=site.navigation icons=false %}
