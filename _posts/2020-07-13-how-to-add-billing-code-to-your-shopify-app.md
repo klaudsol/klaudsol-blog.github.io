@@ -96,3 +96,4 @@ If everything has been done correctly, you should see the above billing confirma
 Don't forget to properly configure your Paypal account so that Shopify knows where to deposit the money when customers purchase your app.
 
 *Learned anything from this tutorial? Got further questions that haven't been answered yet? Comment your queries below, and I'll get back to you as soon as I can.*
+
