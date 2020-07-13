@@ -6,6 +6,9 @@ categories: shopify billing
 
 > *One of the most common mistakes of beginning Shopify app developers is to assume that the Shopify app store will handle pricing and billing for them. Learn how to add billing code to your app to prevent selling it for free.*
 
+![How to Add Billing Code to Your Shopify App](/assets/images/shopify-billing-0.jpg)
+*<span>Photo by <a href="https://unsplash.com/@clemhlrdt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Clément H</a> on <a href="https://unsplash.com/s/photos/code-es6?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
+
 If you published a public app without the appropriate billing code, your hard work would be distributed without any compensation (aka "moolah"). This will cause you lots of grief and heartache if the "giveaway" is not exactly intentional. 
 
 It is also rather impossible to contact and manually charge each merchant who downloaded your app. This is especially true if your app stirred demand from thousands of merchants.
