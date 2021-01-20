@@ -4,6 +4,14 @@ permalink: "/about/"
 layout: page
 ---
 
+## Quick Start
+
+```
+gem install bundler
+bundle install
+bundle exec jekyll serve
+```
+
 ## Installation
 
 Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
