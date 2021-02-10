@@ -37,3 +37,4 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-gist
+ - jekyll-seo-tag
