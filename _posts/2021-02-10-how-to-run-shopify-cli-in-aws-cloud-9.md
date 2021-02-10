@@ -3,6 +3,7 @@ layout: post
 title:  "How to run Shopify CLI in AWS Cloud 9"
 categories: shopify aws cloud9
 image: https://assets.klaudsol.com/how-to-run-shopify-cli-in-aws-cloud-9/tut-A3.png
+description: How do you proceed with Shopify's authentication process in AWS Cloud 9?
 ---
 
 ![AWS Cloud9 in action.](https://assets.klaudsol.com/how-to-run-shopify-cli-in-aws-cloud-9/tut-A3.png)
